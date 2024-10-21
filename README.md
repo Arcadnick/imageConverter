@@ -41,7 +41,6 @@ Original HTML:
 Result:
 ```
 ["image1.jpg", "image2.jpg"]
-<img src="image1.jpg">
 <p>Текст после изображений</p>
 ```
 ---
@@ -88,6 +87,5 @@ Result:
 Результат:
 ```
 ["image1.jpg", "image2.jpg"]
-<img src="image1.jpg">
 <p>Текст после изображений</p>
 ```
