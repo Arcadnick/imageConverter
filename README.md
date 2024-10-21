@@ -35,13 +35,13 @@ Original HTML:
 ```
 <img src="image1.jpg">
 <img src="image2.jpg">
-<p>Текст после изображений</p>
+<p>Text after images</p>
 ```
 
 Result:
 ```
 ["image1.jpg", "image2.jpg"]
-<p>Текст после изображений</p>
+<p>Text after images</p>
 ```
 ---
 ## README (Русский)
